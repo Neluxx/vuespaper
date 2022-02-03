@@ -1,6 +1,10 @@
 <template>
   <div>
     <b-jumbotron class="text-center pb-5" header="Vuespaper">
+      <br>
+      <b-alert variant="danger" show dismissible fade>
+        Due to changes in the pricing policy of the News API, API calls can only be made locally. Please clone the repository and run it locally.
+      </b-alert>
       <b-container>
         <b-form @submit.prevent="fetchData()">
           <b-form-input
