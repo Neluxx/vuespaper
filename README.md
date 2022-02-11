@@ -24,16 +24,16 @@ Unfortunately, due to changes in the pricing policy of the news API, API calls c
 ## Installation
 
 - Clone the repository `git clone https://github.com/Neluxx/VueJS-NewsAPI.git`
-- Go to the project directory with `cd VueJS-NewsAPI`
-- Install all Dependencies by running `npm install`
+- Go into the project directory `cd VueJS-NewsAPI`
+- Setup the project `npm install`
 
 
 ## Usage
 
-- Go into the project directory with `cd VueJS-NewsAPI`
-- Start the project with `npm run serve`
-- Visit [Localhost](http://localhost:8080/) to see the project
-- Enter a topic about which you want to know the latest news
+- Go into the project directory `cd VueJS-NewsAPI`
+- Run the project `npm run serve`
+- Visit [Localhost](http://localhost:8080/)
+- Enter a topic into the searchbar to get the latest news
 
 ## Support
 
