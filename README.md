@@ -2,7 +2,7 @@
 
 This project was developed in the context of a test task in the application procedure of the company [econda Gmbh](https://www.econda.de/) in Karlsruhe.
 
-The project has been deployed on Github pages and can be accessed via the following link: [Vuespaper](https://neluxx.github.io/vuespaper/)
+The project has been deployed on Github pages and can be accessed via the following link: [vuespaper](https://neluxx.github.io/vuespaper/)
 
 Unfortunately, due to changes in the pricing policy of the News API, API calls can only be made locally. Please clone the repository and run it locally to use all features.
 
